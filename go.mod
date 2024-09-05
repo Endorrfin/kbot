@@ -1,4 +1,4 @@
-module https://github.com/Endorrfin/kbot
+module github.com/Endorrfin/kbot
 
 go 1.20
 
